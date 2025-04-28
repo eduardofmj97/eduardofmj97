@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Junqueira;I'm+27+years+old;I'm+from+Brazil;Veterinary+and+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 🐕🐈🐄🐎🐑🐐🐦
-About me: I'm from Rio de Janeiro, Brazil. I have a bachelor's degree in Veterinary Medicine by Universidade Federal Fluminense and Data Science entusiast. I am a postgraduate student in veterinary anesthesia. My main objective is to develop myself as a Data expert and be able to learn as many as possible in the area, also apllying it to the medical area.
+//About me: I'm from Rio de Janeiro, Brazil. I have a bachelor's degree in Veterinary Medicine by Universidade Federal Fluminense and Data Science entusiast. I am a postgraduate student in veterinary anesthesia. My main objective is to develop myself as a Data expert and be able to learn as many as possible in the area, also apllying it to the medical area.
 
 Be welcome to my hub and feel free to share knowledge, lets collaborate together! It'll be a pleasure to share this journey!
 
